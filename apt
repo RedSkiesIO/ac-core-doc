@@ -1,0 +1,3 @@
+#Required packages for building binaries
+Debian: apt install libc-dev libsecp256k1-dev make g++
+
