@@ -1,0 +1,10 @@
+<map id="us::gov::id::peer_t" name="us::gov::id::peer_t">
+<area shape="rect" id="node4" href="$d0/d88/structus_1_1gov_1_1auth_1_1peer__t.html" title="us::gov::auth::peer_t" alt="" coords="195,229,337,256"/>
+<area shape="rect" id="node2" href="$d2/d1a/structus_1_1gov_1_1socket_1_1peer__t.html" title="us::gov::socket::peer_t" alt="" coords="188,80,344,107"/>
+<area shape="rect" id="node3" href="$dd/d95/structus_1_1gov_1_1socket_1_1client.html" title="us::gov::socket::client" alt="" coords="191,5,341,32"/>
+<area shape="rect" id="node5" href="$d3/d20/structshell__client.html" title="shell_client" alt="" coords="5,304,92,331"/>
+<area shape="rect" id="node6" href="$d9/d5d/structus_1_1gov_1_1peer_1_1peer__t.html" title="us::gov::peer::peer_t" alt="" coords="116,304,259,331"/>
+<area shape="rect" id="node8" href="$da/db1/structus_1_1wallet_1_1peer__t.html" title="us::wallet::peer_t" alt="" coords="283,304,406,331"/>
+<area shape="rect" id="node9" href="$df/dcb/structus_1_1wallet_1_1rpc__api.html" title="us::wallet::rpc_api" alt="" coords="430,304,558,331"/>
+<area shape="rect" id="node7" href="$d3/d83/structus_1_1gov_1_1blockchain_1_1peer__t.html" title="us::gov::blockchain\l::peer_t" alt="" coords="120,379,255,420"/>
+</map>

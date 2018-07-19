@@ -1,0 +1,7 @@
+<map id="us::gov::blockchain::policies_t&lt; D, T &gt;" name="us::gov::blockchain::policies_t&lt; D, T &gt;">
+<area shape="rect" id="node4" href="$d3/d7b/structus_1_1gov_1_1blockchain_1_1policies__t.html" title="us::gov::blockchain\l::policies_t\&lt; hash_t,\l policies_traits \&gt;" alt="" coords="529,5,669,61"/>
+<area shape="rect" id="node6" href="$d3/d7b/structus_1_1gov_1_1blockchain_1_1policies__t.html" title="us::gov::blockchain\l::policies_t\&lt; double,\l policies_traits \&gt;" alt="" coords="530,85,669,141"/>
+<area shape="rect" id="node5" href="$d6/def/structus_1_1gov_1_1loan_1_1app_1_1policies__t.html" title="us::gov::loan::app\l::policies_t" alt="" coords="729,13,855,54"/>
+<area shape="rect" id="node7" href="$dd/d5c/structus_1_1gov_1_1blockchain_1_1auth_1_1app_1_1policies__t.html" title="us::gov::blockchain\l::auth::app::policies_t" alt="" coords="719,85,865,126"/>
+<area shape="rect" id="node8" href="$d1/d67/structus_1_1gov_1_1cash_1_1app_1_1policies__t.html" title="us::gov::cash::app\l::policies_t" alt="" coords="727,150,857,191"/>
+</map>

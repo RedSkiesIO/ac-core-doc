@@ -1,0 +1,14 @@
+<map id="us::gov::loan::app" name="us::gov::loan::app">
+<area shape="rect" id="node2" href="$df/db8/structus_1_1gov_1_1blockchain_1_1app.html" title="us::gov::blockchain::app" alt="" coords="1211,101,1375,127"/>
+<area shape="rect" id="node3" href="$d5/d43/structus_1_1gov_1_1crypto_1_1ripemd160_1_1value__type.html" title="us::gov::crypto::ripemd160\l::value_type" alt="" coords="859,45,1036,87"/>
+<area shape="rect" id="node5" href="$dd/d0f/structus_1_1gov_1_1loan_1_1local__delta.html" title="us::gov::loan::local\l_delta" alt="" coords="1227,159,1359,200"/>
+<area shape="rect" id="node6" href="$d4/d1c/structus_1_1gov_1_1blockchain_1_1policies__local__delta.html" title="us::gov::blockchain\l::policies_local_delta\l\&lt; hash_t, policies_traits \&gt;" alt="" coords="861,151,1034,207"/>
+<area shape="rect" id="node7" href="$d7/d93/structus_1_1gov_1_1blockchain_1_1policies__base.html" title="us::gov::blockchain\l::policies_base\&lt; hash\l_t, policies_traits \&gt;" alt="" coords="553,71,703,127"/>
+<area shape="rect" id="node9" href="$d7/d93/structus_1_1gov_1_1blockchain_1_1policies__base.html" title="us::gov::blockchain\l::policies_base\&lt; D, T \&gt;" alt="" coords="239,127,397,168"/>
+<area shape="rect" id="node12" href="$d4/d1c/structus_1_1gov_1_1blockchain_1_1policies__local__delta.html" title="us::gov::blockchain\l::policies_local_delta\l\&lt; D, T \&gt;" alt="" coords="557,151,699,207"/>
+<area shape="rect" id="node17" href="$d3/d7b/structus_1_1gov_1_1blockchain_1_1policies__t.html" title="us::gov::blockchain\l::policies_t\&lt; D, T \&gt;" alt="" coords="251,375,385,416"/>
+<area shape="rect" id="node11" href="$d2/dea/structus_1_1gov_1_1blockchain_1_1app_1_1local__delta.html" title="us::gov::blockchain\l::app::local_delta" alt="" coords="251,192,385,233"/>
+<area shape="rect" id="node13" href="$d6/def/structus_1_1gov_1_1loan_1_1app_1_1policies__t.html" title="us::gov::loan::app\l::policies_t" alt="" coords="1060,253,1187,295"/>
+<area shape="rect" id="node14" href="$d3/d7b/structus_1_1gov_1_1blockchain_1_1policies__t.html" title="us::gov::blockchain\l::policies_t\&lt; hash_t,\l policies_traits \&gt;" alt="" coords="558,295,698,351"/>
+<area shape="rect" id="node19" href="$d9/d19/structus_1_1gov_1_1loan_1_1app_1_1db__t.html" title="us::gov::loan::app\l::db_t" alt="" coords="1229,303,1356,344"/>
+</map>

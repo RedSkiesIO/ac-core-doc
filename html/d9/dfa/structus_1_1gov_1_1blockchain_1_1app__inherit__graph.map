@@ -1,0 +1,6 @@
+<map id="us::gov::blockchain::app" name="us::gov::blockchain::app">
+<area shape="rect" id="node2" href="$d9/db8/structus_1_1gov_1_1blockchain_1_1runnable__app.html" title="us::gov::blockchain\l::runnable_app" alt="" coords="84,80,219,121"/>
+<area shape="rect" id="node5" href="$d6/d6e/structus_1_1gov_1_1loan_1_1app.html" title="us::gov::loan::app" alt="" coords="243,87,369,114"/>
+<area shape="rect" id="node3" href="$d5/d04/structus_1_1gov_1_1blockchain_1_1auth_1_1app.html" title="us::gov::blockchain\l::auth::app" alt="" coords="5,169,140,211"/>
+<area shape="rect" id="node4" href="$db/d60/structus_1_1gov_1_1cash_1_1app.html" title="us::gov::cash::app" alt="" coords="165,177,295,203"/>
+</map>

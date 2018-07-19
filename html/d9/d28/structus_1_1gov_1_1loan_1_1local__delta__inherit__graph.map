@@ -1,0 +1,7 @@
+<map id="us::gov::loan::local_delta" name="us::gov::loan::local_delta">
+<area shape="rect" id="node2" href="$d4/d1c/structus_1_1gov_1_1blockchain_1_1policies__local__delta.html" title="us::gov::blockchain\l::policies_local_delta\l\&lt; hash_t, policies_traits \&gt;" alt="" coords="859,93,1032,149"/>
+<area shape="rect" id="node3" href="$d7/d93/structus_1_1gov_1_1blockchain_1_1policies__base.html" title="us::gov::blockchain\l::policies_base\&lt; hash\l_t, policies_traits \&gt;" alt="" coords="553,13,703,69"/>
+<area shape="rect" id="node5" href="$d7/d93/structus_1_1gov_1_1blockchain_1_1policies__base.html" title="us::gov::blockchain\l::policies_base\&lt; D, T \&gt;" alt="" coords="239,77,397,119"/>
+<area shape="rect" id="node8" href="$d4/d1c/structus_1_1gov_1_1blockchain_1_1policies__local__delta.html" title="us::gov::blockchain\l::policies_local_delta\l\&lt; D, T \&gt;" alt="" coords="557,93,699,149"/>
+<area shape="rect" id="node7" href="$d2/dea/structus_1_1gov_1_1blockchain_1_1app_1_1local__delta.html" title="us::gov::blockchain\l::app::local_delta" alt="" coords="251,157,385,199"/>
+</map>

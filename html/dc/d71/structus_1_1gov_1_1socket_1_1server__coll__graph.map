@@ -1,0 +1,5 @@
+<map id="us::gov::socket::server" name="us::gov::socket::server">
+<area shape="rect" id="node2" href="$d2/de2/structus_1_1gov_1_1signal__handler_1_1callback.html" title="us::gov::signal_handler\l::callback" alt="" coords="5,109,161,151"/>
+<area shape="rect" id="node3" href="$d1/d5c/structus_1_1gov_1_1socket_1_1server_1_1clients__t.html" title="us::gov::socket::server\l::clients_t" alt="" coords="185,109,341,151"/>
+<area shape="rect" id="node5" href="$dd/d95/structus_1_1gov_1_1socket_1_1client.html" title="us::gov::socket::client" alt="" coords="273,13,424,39"/>
+</map>

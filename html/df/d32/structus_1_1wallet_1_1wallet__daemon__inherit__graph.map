@@ -1,0 +1,11 @@
+<map id="us::wallet::wallet_daemon" name="us::wallet::wallet_daemon">
+<area shape="rect" id="node2" href="$da/df0/structus_1_1gov_1_1auth_1_1daemon.html" title="us::gov::auth::daemon" alt="" coords="67,348,219,375"/>
+<area shape="rect" id="node3" href="$dd/d76/structus_1_1gov_1_1id_1_1daemon.html" title="us::gov::id::daemon" alt="" coords="20,273,157,300"/>
+<area shape="rect" id="node4" href="$d1/dd4/structus_1_1gov_1_1socket_1_1daemon.html" title="us::gov::socket::daemon" alt="" coords="5,184,172,211"/>
+<area shape="rect" id="node5" href="$dc/dfa/structus_1_1gov_1_1socket_1_1server.html" title="us::gov::socket::server" alt="" coords="11,95,167,121"/>
+<area shape="rect" id="node6" href="$d2/de2/structus_1_1gov_1_1signal__handler_1_1callback.html" title="us::gov::signal_handler\l::callback" alt="" coords="11,5,167,47"/>
+<area shape="rect" id="node7" href="$d2/d4d/structus_1_1wallet_1_1local__api.html" title="us::wallet::local_api" alt="" coords="272,348,409,375"/>
+<area shape="rect" id="node8" href="$d6/d35/structus_1_1wallet_1_1api.html" title="us::wallet::api" alt="" coords="181,273,284,300"/>
+<area shape="rect" id="node9" href="$d4/d12/structus_1_1wallet_1_1wallet.html" title="us::wallet::wallet" alt="" coords="309,273,429,300"/>
+<area shape="rect" id="node11" href="$d4/df5/structus_1_1wallet_1_1pairing.html" title="us::wallet::pairing" alt="" coords="453,273,577,300"/>
+</map>

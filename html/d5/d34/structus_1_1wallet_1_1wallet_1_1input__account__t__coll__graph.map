@@ -1,0 +1,4 @@
+<map id="us::wallet::wallet::input_account_t" name="us::wallet::wallet::input_account_t">
+<area shape="rect" id="node2" href="$d4/d20/structus_1_1gov_1_1cash_1_1app_1_1local__delta_1_1account__t.html" title="cash::app::account_t" alt="" coords="147,200,291,227"/>
+<area shape="rect" id="node3" href="$d5/d43/structus_1_1gov_1_1crypto_1_1ripemd160_1_1value__type.html" title="us::gov::crypto::ripemd160\l::value_type" alt="" coords="5,96,183,137"/>
+</map>

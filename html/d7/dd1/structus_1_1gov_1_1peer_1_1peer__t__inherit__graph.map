@@ -1,0 +1,7 @@
+<map id="us::gov::peer::peer_t" name="us::gov::peer::peer_t">
+<area shape="rect" id="node6" href="$d3/d83/structus_1_1gov_1_1blockchain_1_1peer__t.html" title="us::gov::blockchain\l::peer_t" alt="" coords="16,379,151,420"/>
+<area shape="rect" id="node2" href="$d0/d88/structus_1_1gov_1_1auth_1_1peer__t.html" title="us::gov::auth::peer_t" alt="" coords="12,229,155,256"/>
+<area shape="rect" id="node3" href="$d0/df4/structus_1_1gov_1_1id_1_1peer__t.html" title="us::gov::id::peer_t" alt="" coords="20,155,147,181"/>
+<area shape="rect" id="node4" href="$d2/d1a/structus_1_1gov_1_1socket_1_1peer__t.html" title="us::gov::socket::peer_t" alt="" coords="5,80,161,107"/>
+<area shape="rect" id="node5" href="$dd/d95/structus_1_1gov_1_1socket_1_1client.html" title="us::gov::socket::client" alt="" coords="8,5,159,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="us::gov::blockchain::auth::app::delta" name="us::gov::blockchain::auth::app::delta">
+<area shape="rect" id="node2" href="$d3/ddf/structus_1_1gov_1_1blockchain_1_1policies__delta.html" title="us::gov::blockchain\l::policies_delta\&lt; double,\l policies_traits, blockchain\l::average_merger\&lt; double \&gt; \&gt;" alt="" coords="961,175,1159,245"/>
+<area shape="rect" id="node3" href="$d7/d93/structus_1_1gov_1_1blockchain_1_1policies__base.html" title="us::gov::blockchain\l::policies_base\&lt; double,\l policies_traits \&gt;" alt="" coords="563,47,726,103"/>
+<area shape="rect" id="node5" href="$d7/d93/structus_1_1gov_1_1blockchain_1_1policies__base.html" title="us::gov::blockchain\l::policies_base\&lt; D, T \&gt;" alt="" coords="239,72,397,113"/>
+<area shape="rect" id="node10" href="$d3/ddf/structus_1_1gov_1_1blockchain_1_1policies__delta.html" title="us::gov::blockchain\l::policies_delta\&lt; D,\l T, M \&gt;" alt="" coords="577,133,712,189"/>
+<area shape="rect" id="node7" href="$d6/dca/structus_1_1gov_1_1blockchain_1_1app_1_1delta.html" title="us::gov::blockchain\l::app::delta" alt="" coords="251,197,385,239"/>
+<area shape="rect" id="node8" href="$db/dd5/structus_1_1gov_1_1blockchain_1_1average__merger.html" title="us::gov::blockchain\l::average_merger\&lt; double \&gt;" alt="" coords="552,269,737,311"/>
+<area shape="rect" id="node9" href="$db/dd5/structus_1_1gov_1_1blockchain_1_1average__merger.html" title="us::gov::blockchain\l::average_merger\&lt; D \&gt;" alt="" coords="239,269,397,311"/>
+</map>
